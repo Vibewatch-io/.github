@@ -1,4 +1,4 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vibewatch — community intelligence for the teams that live by their community">
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vibewatch — watch your community vibe">
   <defs>
     <radialGradient id="meshTeal" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(910 64) rotate(90) scale(560)">
       <stop stop-color="#00C4A1" stop-opacity="0.22"/>
@@ -36,7 +36,7 @@
       <path d="M119.622 123.813C117.321 128.748 110.304 128.748 108.002 123.813L91.1088 87.5838L131.95 0H177.357L119.622 123.813Z" fill="#141412"/>
     </g>
 
-    <text x="640" y="248" text-anchor="middle" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="0.2"><tspan fill="#00735A">Community intelligence</tspan><tspan fill="#6A6861"> for the teams that live by their community</tspan></text>
+    <text x="640" y="250" text-anchor="middle" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="0.2"><tspan fill="#141412">Watch your community </tspan><tspan fill="#00C4A1">vibe.</tspan></text>
 
     <rect x="0.75" y="0.75" width="1278.5" height="358.5" rx="23.25" fill="none" stroke="#E4E1DA" stroke-width="1.5"/>
   </g>

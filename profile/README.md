@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vibewatch.io">
-    <img src="./assets/hero.svg" alt="Vibewatch — community intelligence for the teams that live by their community" width="100%">
+    <img src="./assets/hero.svg" alt="Vibewatch — watch your community vibe" width="100%">
   </a>
 
   <br>
@@ -13,9 +13,9 @@
 
 <br>
 
-**Vibewatch is community intelligence for the teams that live by their community** — crypto projects, public companies, and consumer brands. We aggregate sentiment across every platform your community calls home, including private Discord and Telegram channels, and turn it into a weekly report your whole team can act on.
+**Sentiment intelligence across every platform your community calls home. Weekly reports your whole team can act on.**
 
-The difference: narrative reports written by AI, not another dashboard to check — with scoring that learns from your team's corrections over time.
+We aggregate sentiment across Discord, Telegram, X, and beyond — including the private channels where your community actually lives — and turn it into a narrative report written by AI, not another dashboard to check.
 
 <div align="center">
   <br>
