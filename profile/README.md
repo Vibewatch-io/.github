@@ -15,7 +15,7 @@
 
 **Sentiment intelligence across every platform your community calls home. Weekly reports your whole team can act on.**
 
-We aggregate sentiment across Discord, Telegram, X, and beyond — including the private channels where your community actually lives — and turn it into a narrative report written by AI, not another dashboard to check.
+We aggregate sentiment across Discord, Telegram, X, and beyond — including the private channels where your community actually lives — and distill it into a narrative report, not another dashboard to check.
 
 <div align="center">
   <br>
