@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vibewatch.io">
-    <img src="./assets/hero.png" alt="Vibewatch. Social listening for crypto and web3 teams. Make sure your community is heard, and answered." width="100%">
+    <img src="./assets/hero.png" alt="Vibewatch. Social listening for crypto and web3 teams. Make sure your community is heard, and answered. Beside the words, a screenshot of the Engage queue in the Vibewatch app." width="100%">
   </a>
 
   <br>
@@ -13,7 +13,7 @@
 
 <br>
 
-**Vibewatch reads your Discord, Telegram, X and more, shows which messages need a reply, and writes a weekly report for your whole team.**
+**Vibewatch reads your Discord, Telegram, X and more, shows which inbound messages need a reply, and writes a weekly report for your whole team.**
 
 Discord and Telegram coverage comes from inside the servers and channels where your community actually talks. Vibewatch never drafts or posts a reply. Someone on your team writes each one and sends it from their own account.
 
