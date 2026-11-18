@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://vibewatch.io">
-    <img src="./assets/hero.png" alt="Vibewatch. Social listening for crypto and web3 teams. Make sure your community is heard, and answered. Beside the words, a screenshot of the Engage queue in the Vibewatch app." width="100%">
+    <img src="./assets/hero.png" alt="Vibewatch. Social listening for web3 teams. Make sure your community is heard, and answered. Beside the words, the Engage reply queue as vibewatch.io illustrates it." width="100%">
   </a>
 
   <br>
